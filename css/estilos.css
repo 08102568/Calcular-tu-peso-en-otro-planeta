@@ -1,0 +1,33 @@
+BODY{
+	background:pink;
+}
+h1{
+	font-size: 39px;
+	color: black;
+	font-style:inherit;
+	text-shadow: 2px 2px 12px red, -6px -6px 12px blue;
+}
+h1{
+	font-size: 39px;
+	font-style:inherit;
+	color: black;
+	text-shadow: 2px 2px 12px red, -6px -6px 12px blue;
+}
+label{
+	font-size:33px;
+	font-style: initial;
+	color: darkviolet;
+}
+input {
+    font-size: 16px;
+}
+h2{
+	font-size: 15px;
+    color: black;
+    font-style: unset;
+}
+h3{
+	font-size: 15px;
+    color: black;
+    font-style: unset;
+}
